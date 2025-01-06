@@ -1,3 +1,3 @@
 <?php
-echo 'hiii welcome route';
+echo 'hiii welcomee route';
 ?>
