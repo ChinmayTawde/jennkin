@@ -1,10 +1,10 @@
 <?php
-/*echo 'hiii welcomee route';
+echo 'hiii welcomee route';
 $a = 10;
 $b = 20;
-print_r($a+$b);*/
+print_r($a+$b);
 ?>
-<html>
+<!--html>
 <body>
 
 <h2>HTML Forms</h2>
@@ -20,4 +20,4 @@ print_r($a+$b);*/
 <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
 
 </body>
-</html>
+</html-->
